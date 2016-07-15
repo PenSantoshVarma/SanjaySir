@@ -1,0 +1,26 @@
+import static org.junit.Assert.*;
+
+import org.junit.Before;
+import org.junit.Test;
+
+public class TestOperation {
+
+	AdditionExample a;
+	@Before
+	public void setUp() throws Exception {
+		
+		a=new AdditionExample();
+	}
+
+	@Test
+	public void test() {
+		fail("Not yet implemented");
+	}
+	
+	@Test
+	public void testAddition()
+	{
+		assertEquals(5,)
+	}
+
+}

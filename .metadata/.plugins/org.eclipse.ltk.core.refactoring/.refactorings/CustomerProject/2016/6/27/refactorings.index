@@ -1,0 +1,3 @@
+1467198494807	Rename type 'CustomerRepository'
+1467198801045	Extract interface 'CustomerRepository'
+1467199177823	Extract interface 'CustomerService'
